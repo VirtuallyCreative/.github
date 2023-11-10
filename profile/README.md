@@ -27,7 +27,9 @@ Virtually(Creative) boasts a diverse and impressive portfolio. We've collaborate
 -   **A.I. automation using Node.js** - building custom CLI tooling to work with A.I.
 -   **Behaviour Marketing System Design** - Creating the future of integrated, scalable marketing solutions for small & medium businesses.
 
-![Al's github stats](https://github-readme-stats.vercel.app/api?username=virtuallycreative&hide=["issues"]&show_icons=true)
+![Al's github stats](https://github-readme-stats.vercel.app/api?username=vip3rousmango&hide=["issues"]&show_icons=true)
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=vip3rousmango)](https://git.io/streak-stats)
 
 ### 👯 We're looking to collaborate on ...
 
