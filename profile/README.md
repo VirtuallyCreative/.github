@@ -1,53 +1,36 @@
-# Hi there 👋
+<h1 align="center">Hi 👋, We're Virtually(Creative)</h1>
+<h3 align="center">Dream. Design. Develop. Deliver.</h3>
 
-Founded by Al Romano, Virtually(Creative) is not just another marketing agency. It's a testament to the power of self-learning, passion, and the pursuit of excellence in the digital realm.
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vip3rousmango" alt="vip3rousmango" /></a> </p>
 
-## About Al Romano:
+<p align="left"> <a href="https://twitter.com/vip3rousmango" target="blank"><img src="https://img.shields.io/twitter/follow/vip3rousmango?logo=twitter&style=for-the-badge" alt="vip3rousmango" /></a> </p>
 
-```bash
-$ npx vip3rousmango
-```
+-   🔭 We're currently working on **A.I. automations & marketing tooling using Node.js**
 
-Al Romano, the driving force behind Virtually(Creative), is a self-taught Full Stack Web Developer with a distinctive flair for web analytics and data dashboards. His journey into the world of web development began in an unlikely place – while working as a security guard in 2008. Fueled by a desire for greater challenges, Al delved into the intricacies of HTML, CSS2, and Javascript. By 2010, Virtually(Creative) was officially registered, marking the beginning of a transformative journey in the web development space.
+-   👯 We're looking to collaborate on **fellow open-source projects that align with providing things for the greater-good.**
 
-Over the past 13 years, Al's commitment to the craft has remained unwavering. His early days were marked by his work as a PHP (LAMP) developer, predominantly with WordPress CMS. However, around 2015, his interests evolved. Drawn to the world of Information Dashboard design and data visualization, Al honed his skills in JavaScript and became adept at using Node.js for both pipeline processes and application building, exploring the potentials of MExN & JAM stacks.
+-   👨‍💻 All of our projects are available at [https://virtuallycreative.ca](https://virtuallycreative.ca)
 
-## Inclusive Design Philosophy:
+-   📝 We regularly write articles on [https://hash.virtuallycreative.ca](https://hash.virtuallycreative.ca)
 
-Al is a staunch advocate of inclusive design. Through his HTML First Prototyping approach, he discovered that prioritizing accessibility from the outset is the cornerstone of crafting inclusive digital solutions. This philosophy is deeply ingrained in every project undertaken by Virtually(Creative).
+-   💬 Ask us about **Web Development, Coding Mixes for Focus, Using Agile for Parenting, How to exit Vim, Best way to cook a steak, Why VS Code is our favourite IDE, Check out the [/uses/](https://virtuallycreative.ca/uses/) page for what stack we use regularly, [Virtually(Hash)](https://hash.virtuallycreative.ca) for our publications**
 
-## Our Portfolio:
+-   📫 How to reach us **alexander@virtuallycreative.ca**
 
-Virtually(Creative) boasts a diverse and impressive portfolio. We've collaborated with international ad giants like Saatchi & Saatchi and Upcoming Media. On a local scale, we've contributed to bioinformatics and tech startups such as Cyclica. Our commitment to making a difference is evident in our work with the SickKids Foundation. Furthermore, while managing at Q4 Inc., we've empowered developers across the globe.
+### Blogs posts
 
-:notes: Started with the LAMP-stack, now I'm all about that JAM-stack. :notes:
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
-### 🔭 We're currently working on ...
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://dev.to/vip3rousmango" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="vip3rousmango" height="30" width="40" /></a>
+<a href="https://twitter.com/vip3rousmango" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="vip3rousmango" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/virtuallycreative" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="virtuallycreative" height="30" width="40" /></a>
+<a href="/https://hash.virtuallycreative.ca/rss.xml" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://hash.virtuallycreative.ca/rss.xml" height="30" width="40" /></a>
+</p>
 
--   **A.I. automation using Node.js** - building custom CLI tooling to work with A.I.
--   **Behaviour Marketing System Design** - Creating the future of integrated, scalable marketing solutions for small & medium businesses.
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://babeljs.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://bulma.io/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/gilbarbara/logos/804dc257b59e144eaca5bc6ffd16949752c6f789/logos/bulma.svg" alt="bulma" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://d3js.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/d3js/d3js-original.svg" alt="d3js" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://gulpjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gulp/gulp-plain.svg" alt="gulp" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://gohugo.io/" target="_blank" rel="noreferrer"> <img src="https://api.iconify.design/logos-hugo.svg" alt="hugo" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://mochajs.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mochajs/mochajs-icon.svg" alt="mocha" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://webpack.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/> </a> <a href="https://zapier.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/zapier/zapier-icon.svg" alt="zapier" width="40" height="40"/> </a> </p>
 
-### 👯 We're looking to collaborate on ...
-
-Happy to collaborate on fellow open-source projects that align with providing things for the greater-good.
-
-### 💬 Ask us about ...
-
--   Web Development
--   Coding Mixes for Focus
--   Using Agile for Parenting
--   How to exit Vim
--   Best way to cook a steak
--   Why VS Code is our favourite IDE
--   Check out the [/uses/](https://virtuallycreative.ca/uses/) page for what stack we use regularly
--   [Virtually(Hash)](https://hash.virtuallycreative.ca) for our publications
-
-### 📫 How to reach us: ...
-
-The fastest way is Chat through [Virtually(Creative)](https://virtuallycreative.ca), or via [Email](mailto:alexander@virtuallycreative.ca).
-
-<!--
-**profiles/README.md** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
--->
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vip3rousmango&" alt="vip3rousmango" /></p>
